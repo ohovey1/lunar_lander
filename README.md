@@ -71,13 +71,13 @@ Using PyTorch, we have trained and compared the performance of the following mod
 
 ## Installation
 
-```bash
+```
 pip install requirements.txt
 ```
 
 ## Usage
 
-```bash
+```
 python lunar_lander.py
 ```
 
