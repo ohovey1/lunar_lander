@@ -11,8 +11,9 @@ np.random.seed(42)
 torch.manual_seed(42)
 
 # Set hyperparameters
-NUM_EPISODES = 100
+NUM_EPISODES = 1000
 MAX_STEPS = 1000
+
 EVAL_FREQUENCY = 100  # Evaluate every 100 episodes
 SAVE_FREQUENCY = 100  # Save model every 100 episodes
 MODEL_PATH = "lunar_lander_dqn.pth"
