@@ -158,3 +158,25 @@ The visualization script generates several plots and metrics for comparing agent
 | DQNAgent | 201.89 | 185.08 | 2779.267275 | 1000 | No | 1000 | 0.1851 |
 | DuelingDQNAgent | 259.68 | 259.68 | 1721.074177 | 800 | Yes | 1000 | 0.2597 |
 | PPOAgent | 245.53 | 219.90 | 625.259019 | 400 | No | 1000 | 0.2199 |
+
+**Training Rewards**
+
+![Training Rewards](plots/training_rewards_comparison.png)
+
+**Evaluation Rewards**
+
+![Evaluation Rewards](plots/evaluation_rewards_comparison.png)
+
+**Maximum Reward**
+
+![Maximum Reward](plots/max_reward_comparison.png)
+
+**Final Reward**
+
+![Final Reward](plots/final_reward_comparison.png)
+
+**Training Time**
+
+![Training Time](plots/training_time_comparison.png)
+
+
