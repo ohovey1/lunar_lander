@@ -8,7 +8,7 @@ The project features a modular, object-oriented design that makes it easy to imp
 
 ## Demo
 
-![Demo](demo.mp4)
+![Demo](demo.gif)
 
 ## Environment
 
