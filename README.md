@@ -6,6 +6,10 @@ This project implements and compares various reinforcement learning algorithms f
 
 The project features a modular, object-oriented design that makes it easy to implement, test, and compare different reinforcement learning approaches.
 
+## Demo
+
+![Demo](demo.mp4)
+
 ## Environment
 
 The Lunar Lander environment presents a challenging control problem:
